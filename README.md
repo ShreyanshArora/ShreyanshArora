@@ -3,7 +3,7 @@ ABOUT ME
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking for help with my Projects.
-- 📫 You can react me out on twitter @shreyansh__11__
+- 📫 You can reach me out on twitter @shreyansh__11__
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to work on Multiple Projects.
 
