@@ -52,7 +52,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyanshArora&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyanshArora&theme=radical&exclude=Reviews&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
