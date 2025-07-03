@@ -68,8 +68,6 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyanshArora&theme=radical" alt="Productive Time" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyanshArora&theme=radical" alt="Repos Per Language" />
-
 </div>
 
 ---
