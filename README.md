@@ -1,7 +1,7 @@
 # Hi there, I'm Shreyansh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Developer;Machine+Learning+Enthusiast;Multi-Project+Explorer" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 ---
@@ -21,10 +21,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 ## 🛠️ Tech Stack
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -32,10 +29,10 @@ I'm a passionate developer who loves building innovative solutions and exploring
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -69,26 +66,23 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ---
 
-## 🤝 Let's Connect!
+## 📬 Contact Me
 
-I’m always excited to connect with fellow developers and collaborate on interesting projects!
+I’d love to connect and collaborate!
 
 <div align="center">
   
 [![Twitter](https://img.shields.io/badge/-@shreyansh__11__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shreyansh__11__)
 [![GitHub](https://img.shields.io/badge/-@ShreyanshArora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyanshArora)
-[![LinkedIn](https://img.shields.io/badge/-Shreyansh%20Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-Shreyansh%20Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-arora-11-/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansharora69@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyanshArora&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad." — Cory House**
+**"The only way to do great work is to love what you do." — Steve Jobs**
 
 </div>
