@@ -1,7 +1,5 @@
 # Hi there, I'm Shreyansh! 👋
-
 ---
-
 ## 🚀 About Me
 
 I'm a passionate developer who loves building innovative solutions and exploring the intersection of web technologies and artificial intelligence.
@@ -94,9 +92,3 @@ I'm a passionate developer who loves building innovative solutions and exploring
 </div>
 
 ---
-
-<div align="center">
-  
-**"The only way to do great work is to love what you do." — Steve Jobs**
-
-</div>
